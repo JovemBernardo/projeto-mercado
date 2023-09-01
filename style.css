@@ -1,0 +1,9 @@
+/* 
+# serve para o id;
+. serve para a class;
+sem nada serve para "tudo";
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
